@@ -74,4 +74,14 @@ img{
     margin-top: 60px;
     gap: 20px;
 }
+/*CURSOS*/
+.flexCursos{
+    display: flex;
+    margin-top: 60px;
+    gap: 20px;
+}
+.espacamentoCursos{
+    margin-top: 80px;
+    margin-bottom: 50px;
 
+}
